@@ -3,10 +3,15 @@ Course Project for CS328 Introduction to Data Science
 
 To run-
 Download all the .py files provided in the repo.
+
 Download the Credit Card Transactions Fraud Detection Dataset from Kaggle https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
 Put the extracted CSVs from the dataset and the 3 .py files in the same folder together.
+
 First run "python 01_build_graph_features.py" in the terminal to generate graph based parameters.
+
 Then run "python 02_train_models.py" to train the models.
+
 Result will be visible in "outputs/model_comparision_report.txt"
 
 Description-
